@@ -1,0 +1,11 @@
+html {
+    display: table;
+    margin: auto;
+}
+body{
+    display: table-cell;
+    vertical-align: middle;
+}
+canvas{
+    margin-top: 50px;
+}
